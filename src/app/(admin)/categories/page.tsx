@@ -13,7 +13,7 @@ import {
 
 export default function CategoriesPage() {
   return (
-    <ContentLayout title="Categories">
+    <ContentLayout title="Categoriess">
       <Breadcrumb>
         <BreadcrumbList>
           <BreadcrumbItem>
